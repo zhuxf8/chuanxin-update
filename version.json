@@ -1,6 +1,6 @@
 {
   "versionName": "2.0.0",
   "versionCode": 5,
-  "url": "https://dwap.lanzouv.com/iM0kF4bjg8la",
-  "notes": "悬浮窗防冻转正（强制启用）；修复通知监听器掉线不自愈；设置页文案补全"
+  "url": "https://dwap.lanzouv.com/iJB044bl4jrc",
+  "notes": "新增检查更新；悬浮窗防冻转正；修复通知监听器掉线不自愈；界面完善（必做标签、摘要文案、通知使用权升级为必需）"
 }
