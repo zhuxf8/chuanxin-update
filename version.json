@@ -1,6 +1,6 @@
 {
-  "versionName": "2.0.0",
-  "versionCode": 5,
-  "url": "https://dwap.lanzouv.com/iJB044bl4jrc",
-  "notes": "新增检查更新；悬浮窗防冻转正；修复通知监听器掉线不自愈；界面完善（必做标签、摘要文案、通知使用权升级为必需）"
+  "versionName": "2.0.1",
+  "versionCode": 6,
+  "url": "https://dwap.lanzouv.com/iwizs4bl61va",
+  "notes": "调整「检查更新」的镜像顺序（jsdelivr 缓存久，移到最后兜底）。其余同 2.0.0。"
 }
