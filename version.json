@@ -1,6 +1,7 @@
 {
-  "versionName": "2.0.1",
-  "versionCode": 6,
-  "url": "https://dwap.lanzouv.com/iwizs4bl61va",
-  "notes": "调整「检查更新」的镜像顺序（jsdelivr 缓存久，移到最后兜底）。其余同 2.0.0。"
+  "versionName": "2.0.2",
+  "versionCode": 7,
+  "url": "https://github.com/zhuxf8/chuanxin/releases/latest",
+  "notes": "「智能识别」改为「验证码识别」；修正权限自检摘要为 3 项必需。",
+  "mirror": "https://dwap.lanzouv.com/i6ia64bl895e"
 }
