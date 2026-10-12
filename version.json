@@ -1,6 +1,6 @@
 {
-  "versionName": "2.3.2",
-  "versionCode": 18,
-  "url": "https://dwap.lanzouv.com/i3mY34bpp7fi",
-  "notes": "微信 ClawBot 发送前自动检测会话状态：会话失效时给出明确提示，不再出现「显示成功却收不到」。"
+  "versionName": "2.3.3",
+  "versionCode": 19,
+  "url": "https://dwap.lanzouv.com/iVslD4bprjyb",
+  "notes": "修复：同时开启多个转发通道时，只有第一个能收到消息（发送守闸被多个通道抢闸）；修复记录页显示「部分失败：」但实际全部成功。"
 }
