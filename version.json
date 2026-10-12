@@ -1,6 +1,6 @@
 {
-  "versionName": "2.3.3",
-  "versionCode": 19,
-  "url": "https://dwap.lanzouv.com/iVslD4bprjyb",
-  "notes": "修复：同时开启多个转发通道时，只有第一个能收到消息（发送守闸被多个通道抢闸）；修复记录页显示「部分失败：」但实际全部成功。"
+  "versionName": "2.3.4",
+  "versionCode": 20,
+  "url": "https://dwap.lanzouv.com/iyvm14bq3rre",
+  "notes": "首次安装体验修复：转发服务默认关闭需手动开启；进入首页引导先授予短信权限（ColorOS 上不先授予会导致通知使用权页面显示「出于安全考虑不可用」）；修复首屏卡顿闪退与权限授权弹窗一闪而过。"
 }
