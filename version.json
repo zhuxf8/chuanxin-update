@@ -1,6 +1,6 @@
 {
-  "versionName": "2.2.2",
-  "versionCode": 14,
-  "url": "https://dwap.lanzouv.com/i3CTY4bp5vtg",
-  "notes": "短信导入界面重做：由原生弹窗改为卡片式列表，每条短信独立卡片、发件人/时间分行、正文单独一行，不再挤成一坨。"
+  "versionName": "2.2.3",
+  "versionCode": 15,
+  "url": "https://dwap.lanzouv.com/ipZlH4bp8wab",
+  "notes": "转发记录新增「短信详情」：每条记录可弹出查看完整短信内容（发件人/时间/正文）。首页最近转发与设置转发记录均已支持。"
 }
