@@ -1,6 +1,6 @@
 {
-  "versionName": "2.0.3",
-  "versionCode": 8,
-  "url": "https://dwap.lanzouv.com/igol94boemof",
-  "notes": "通知捕获强制开启（5G 消息只能靠它捕获，不可再关闭）；捕获来源弹窗「备选」改为「增强」。"
+  "versionName": "2.1.0",
+  "versionCode": 9,
+  "url": "https://dwap.lanzouv.com/iWgQZ4bolguh",
+  "notes": "新增 WxPusher 极简推送通道（SPT 用户自填）；通道顺序调整；首次安装不勾选任何通道。"
 }
