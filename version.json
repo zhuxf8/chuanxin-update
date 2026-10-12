@@ -1,6 +1,6 @@
 {
-  "versionName": "2.2.1",
-  "versionCode": 13,
-  "url": "https://dwap.lanzouv.com/ikHDi4bp51uh",
-  "notes": "识别测试页新增「从短信导入」：一键拉取最近短信，点选自动填入，方便验证规则。其余与 2.2.0 一致。"
+  "versionName": "2.2.2",
+  "versionCode": 14,
+  "url": "https://dwap.lanzouv.com/i3CTY4bp5vtg",
+  "notes": "短信导入界面重做：由原生弹窗改为卡片式列表，每条短信独立卡片、发件人/时间分行、正文单独一行，不再挤成一坨。"
 }
