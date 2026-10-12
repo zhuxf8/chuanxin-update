@@ -1,6 +1,6 @@
 {
-  "versionName": "2.1.1",
-  "versionCode": 10,
-  "url": "https://dwap.lanzouv.com/iwCKZ4boovbg",
-  "notes": "修复息知通道成功被误判为失败（code=200 才是成功）；为所有转发通道补充配置指引。"
+  "versionName": "2.2.0",
+  "versionCode": 12,
+  "url": "https://dwap.lanzouv.com/iMDfD4bp1vpi",
+  "notes": "规则语义重塑：验证码（精确/默认开）与行业短信（全部/默认关）两类；修复被系统拦截短信仍转发；验证码关键词大幅扩充（含繁体/俄/越/波）；设置页重排。"
 }
