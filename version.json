@@ -1,6 +1,6 @@
 {
-  "versionName": "2.0.2",
-  "versionCode": 7,
-  "url": "https://dwap.lanzouv.com/i6ia64bl895e",
-  "notes": "「智能识别」改为「验证码识别」；修正权限自检摘要为 3 项必需。"
+  "versionName": "2.0.3",
+  "versionCode": 8,
+  "url": "https://dwap.lanzouv.com/igol94boemof",
+  "notes": "通知捕获强制开启（5G 消息只能靠它捕获，不可再关闭）；捕获来源弹窗「备选」改为「增强」。"
 }
