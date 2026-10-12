@@ -1,6 +1,6 @@
 {
-  "versionName": "2.3.0",
-  "versionCode": 16,
-  "url": "https://dwap.lanzouv.com/ijpKS4bpiayd",
-  "notes": "新增两条原生通道：微信 ClawBot（登录码直接拉起微信，内置会话自愈）、QQ 机器人（QQ 官方开放平台，AppID+AppSecret）。两通道排在企业微信机器人之上。"
+  "versionName": "2.3.1",
+  "versionCode": 17,
+  "url": "https://dwap.lanzouv.com/iiyCv4bpkn7g",
+  "notes": "修复微信 ClawBot 发送成功被误判为失败（成功响应不含 ret 字段，此前被当成 -1）；QQ 机器人成功判定加固（失败也返回 HTTP 200，改为结合 body code 判断）。"
 }
