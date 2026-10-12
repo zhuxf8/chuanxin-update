@@ -1,6 +1,6 @@
 {
-  "versionName": "2.3.1",
-  "versionCode": 17,
-  "url": "https://dwap.lanzouv.com/iiyCv4bpkn7g",
-  "notes": "修复微信 ClawBot 发送成功被误判为失败（成功响应不含 ret 字段，此前被当成 -1）；QQ 机器人成功判定加固（失败也返回 HTTP 200，改为结合 body code 判断）。"
+  "versionName": "2.3.2",
+  "versionCode": 18,
+  "url": "https://dwap.lanzouv.com/i3mY34bpp7fi",
+  "notes": "微信 ClawBot 发送前自动检测会话状态：会话失效时给出明确提示，不再出现「显示成功却收不到」。"
 }
