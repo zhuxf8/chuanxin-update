@@ -1,6 +1,6 @@
 {
-  "versionName": "2.1.0",
-  "versionCode": 9,
-  "url": "https://dwap.lanzouv.com/iWgQZ4bolguh",
-  "notes": "新增 WxPusher 极简推送通道（SPT 用户自填）；通道顺序调整；首次安装不勾选任何通道。"
+  "versionName": "2.1.1",
+  "versionCode": 10,
+  "url": "https://dwap.lanzouv.com/iwCKZ4boovbg",
+  "notes": "修复息知通道成功被误判为失败（code=200 才是成功）；为所有转发通道补充配置指引。"
 }
