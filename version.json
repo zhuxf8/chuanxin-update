@@ -1,6 +1,6 @@
 {
-  "versionName": "2.2.0",
-  "versionCode": 12,
-  "url": "https://dwap.lanzouv.com/iMDfD4bp1vpi",
-  "notes": "规则语义重塑：验证码（精确/默认开）与行业短信（全部/默认关）两类；修复被系统拦截短信仍转发；验证码关键词大幅扩充（含繁体/俄/越/波）；设置页重排。"
+  "versionName": "2.2.1",
+  "versionCode": 13,
+  "url": "https://dwap.lanzouv.com/ikHDi4bp51uh",
+  "notes": "识别测试页新增「从短信导入」：一键拉取最近短信，点选自动填入，方便验证规则。其余与 2.2.0 一致。"
 }
