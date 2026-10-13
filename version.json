@@ -1,6 +1,6 @@
 {
-  "versionName": "2.3.8",
-  "versionCode": 24,
-  "url": "https://dwap.lanzouv.com/iOrqq4btq15c",
-  "notes": "新增：验证码转发成功后自动把原短信标记为已读（转发失败则保持未读）。可在设置→自定义转发中开关，需短信写入权限。"
+  "versionName": "2.3.9",
+  "versionCode": 25,
+  "url": "https://dwap.lanzouv.com/isSs24btwolc",
+  "notes": "修复同一条验证码出现两条记录（同短信经广播+通知两路径到达、正文不同导致去重失效，现改用验证码做键）；标记已读增加诊断日志。"
 }
