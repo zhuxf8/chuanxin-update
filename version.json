@@ -1,6 +1,6 @@
 {
-  "versionName": "2.4.3",
-  "versionCode": 29,
-  "url": "https://dwap.lanzouv.com/i2Z1W4bukm2f",
-  "notes": "保活助手的「从最近任务隐藏」改为可开关（默认开启）。关闭后应用会正常出现在最近任务列表，方便快速切回。"
+  "versionName": "2.5.5",
+  "versionCode": 35,
+  "url": "https://dwap.lanzouv.com/ibjA84bwelve",
+  "notes": "UI 定型版：底栏改为悬浮胶囊玻璃（内容延伸至底栏两侧）、顶栏改直角玻璃通栏、状态栏跟随页面底色、强调色改为 ColorOS 绿。另修复监听模式下通知栏未自动消失、从最近任务隐藏可开关、QQ 机器人通道验证通过。"
 }
