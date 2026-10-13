@@ -1,6 +1,6 @@
 {
-  "versionName": "2.4.0",
-  "versionCode": 26,
-  "url": "https://dwap.lanzouv.com/ikHt14bu00gh",
-  "notes": "转发成功后自动取消通知栏那条短信通知（接管模式与监听模式均支持）；修复重复记录（同短信经广播+通知双路径到达时去重失效，改用验证码做键）。"
+  "versionName": "2.4.1",
+  "versionCode": 27,
+  "url": "https://dwap.lanzouv.com/i9OHp4bu3d9g",
+  "notes": "修复转发成功后通知栏未消失（通知 id 计算错误，改用实际 id 映射）；新增 ClawBot 会话保活长轮询（仅在总开关开+通道启用+已绑定时运行）。"
 }
