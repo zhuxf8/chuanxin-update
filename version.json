@@ -1,6 +1,6 @@
 {
-  "versionName": "2.4.2",
-  "versionCode": 28,
-  "url": "https://dwap.lanzouv.com/ijKZg4bu7n4f",
-  "notes": "修复监听模式下通知栏未自动消失（转发早于系统通知到达，改为登记待取消、通知到达时立即消掉）。说明：短信库「已读」在监听模式下无法实现（非默认短信应用无法写短信库，Android 系统限制），仅接管模式支持。"
+  "versionName": "2.4.3",
+  "versionCode": 29,
+  "url": "https://dwap.lanzouv.com/i2Z1W4bukm2f",
+  "notes": "保活助手的「从最近任务隐藏」改为可开关（默认开启）。关闭后应用会正常出现在最近任务列表，方便快速切回。"
 }
