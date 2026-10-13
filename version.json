@@ -1,6 +1,6 @@
 {
-  "versionName": "2.3.7",
-  "versionCode": 23,
-  "url": "https://dwap.lanzouv.com/ifnMJ4bte7wd",
-  "notes": "修复通知监听器掉线后无法自动恢复：改为先解绑再重绑以触发系统真正重绑（原 requestRebind 因状态未变化被系统短路，完全无效）；并用主动探测替代不可靠的回调标志，检测频率提到约 1 分钟一次。"
+  "versionName": "2.3.8",
+  "versionCode": 24,
+  "url": "https://dwap.lanzouv.com/iOrqq4btq15c",
+  "notes": "新增：验证码转发成功后自动把原短信标记为已读（转发失败则保持未读）。可在设置→自定义转发中开关，需短信写入权限。"
 }
