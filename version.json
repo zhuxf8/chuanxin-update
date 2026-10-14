@@ -1,6 +1,6 @@
 {
-  "versionName": "2.5.8",
-  "versionCode": 38,
-  "url": "https://dwap.lanzouv.com/iPoK44bwynqb",
-  "notes": "新增「运行检测」自检页（权限自检页右上角进入，逐项检测并给出修复入口）；新增「使用帮助」页（首页右上角进入，含上手步骤、权限说明、通道配置教程等）。检测页底部提供「重新检测」与「权限管理」两个按钮。"
+  "versionName": "2.5.9",
+  "versionCode": 39,
+  "url": "https://dwap.lanzouv.com/icbov4bx7d2b",
+  "notes": "优化多通道失败处理：ClawBot 遇到「会话需激活(-2)」时立即放弃，不再重试 4 次（此前会把同一条短信拖慢约 45 秒，连带拖后 QQ 等其它通道的送达）。同时撤除无效的 ClawBot 后台长轮询保活（实测无法阻止 -2）。"
 }
