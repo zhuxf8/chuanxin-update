@@ -1,6 +1,6 @@
 {
-  "versionName": "2.5.5",
-  "versionCode": 35,
-  "url": "https://dwap.lanzouv.com/ibjA84bwelve",
-  "notes": "UI 定型版：底栏改为悬浮胶囊玻璃（内容延伸至底栏两侧）、顶栏改直角玻璃通栏、状态栏跟随页面底色、强调色改为 ColorOS 绿。另修复监听模式下通知栏未自动消失、从最近任务隐藏可开关、QQ 机器人通道验证通过。"
+  "versionName": "2.5.8",
+  "versionCode": 38,
+  "url": "https://dwap.lanzouv.com/iPoK44bwynqb",
+  "notes": "新增「运行检测」自检页（权限自检页右上角进入，逐项检测并给出修复入口）；新增「使用帮助」页（首页右上角进入，含上手步骤、权限说明、通道配置教程等）。检测页底部提供「重新检测」与「权限管理」两个按钮。"
 }
