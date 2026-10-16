@@ -1,6 +1,6 @@
 {
-  "versionName": "2.7.0",
-  "versionCode": 50,
-  "url": "https://dwap.lanzouv.com/ixv224bxx7la",
-  "notes": "自定义通道新增「一键导入微信 ClawBot 模板」（在通道页绑定后自动填入实测可用的 URL/请求头/请求体）；自定义通道接入日志（请求与响应）便于自查；修复自定义通道成功判定只看 HTTP 状态码导致业务失败也报成功；请求头支持占位符，新增 {{uin}}/{{random}}/{{ts}} 动态占位符；输入框加一键清空。"
+  "versionName": "2.8.2",
+  "versionCode": 53,
+  "url": "https://dwap.lanzouv.com/iFIFH4c77woh",
+  "notes": "新增「移动新消息」通道（中国移动 5G 消息，配置页含官方开通与授权指引）；通道列表排序调整：WxPusher 下移到自定义通道之前。"
 }
