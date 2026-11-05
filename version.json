@@ -1,6 +1,6 @@
 {
   "versionName": "2.8.3",
   "versionCode": 77,
-  "url": "https://dwap.lanzouv.com/iplzO4equ42b",
+  "url": "https://share.feijipan.com/s/xuy7EsB8",
   "notes": "保活机制重构：移除无效的双进程守护、看门狗闹钟、账号同步，改为无障碍锚点拉起（实测开机自启生效）+ 常驻防休眠锁。通知栏改为静默。新增开机自启状态检测与保活诊断看板。"
 }
